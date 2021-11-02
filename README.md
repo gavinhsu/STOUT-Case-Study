@@ -8,7 +8,7 @@ Generate a minimum of 5 unique visualizations using the data and write a brief d
 Create a feature set and create a model which predicts interest rate using at least 2 algorithms. Describe any data cleansing that must be performed and analysis when examining the data.
 Visualize the test results and propose enhancements to the model, what would you do if you had more time. Also describe assumptions you made and your approach.
 
-## ase Study #2
+## Case Study #2
 There is 1 dataset(csv) with 3 years’ worth of customer orders. There are 4 columns in the csv dataset: index, CUSTOMER_EMAIL (unique identifier as hash), Net Revenue, and Year.
 
 For each year we need the following information:
